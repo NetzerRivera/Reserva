@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NsLocationAlwaysUsageDescription</key>
+	<string>Esto es para saber siempre donde estas y se coordine el mapa</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Esto es para coordinar el mapa</string>
+	<key>LSApplicationCategoryType</key>
+	<string></string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>

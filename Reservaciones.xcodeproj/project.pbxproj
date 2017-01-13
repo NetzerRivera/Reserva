@@ -7,15 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2F1B33C51E223A3700907F9E /* dulce.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2F1B33C41E223A3700907F9E /* dulce.jpg */; };
+		2F1B33C71E223F5500907F9E /* bco.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F1B33C61E223F5500907F9E /* bco.png */; };
+		2F1B33C91E22454500907F9E /* dulce.png in Resources */ = {isa = PBXBuildFile; fileRef = 2F1B33C81E22454500907F9E /* dulce.png */; };
+		2F270A941E184080008446A6 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2F270A931E184080008446A6 /* GoogleService-Info.plist */; };
+		2F6C436C1E1646A50077B441 /* VistaConfirmacion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F6C436B1E1646A50077B441 /* VistaConfirmacion.swift */; };
+		2F782E731E1B1AC5000F0831 /* PromocionesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F782E721E1B1AC5000F0831 /* PromocionesViewController.swift */; };
 		2F8E02211E1607B300A91443 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8E02201E1607B300A91443 /* AppDelegate.swift */; };
 		2F8E02231E1607B300A91443 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8E02221E1607B300A91443 /* ViewController.swift */; };
 		2F8E02261E1607B300A91443 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F8E02241E1607B300A91443 /* Main.storyboard */; };
 		2F8E02291E1607B400A91443 /* Reservaciones.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 2F8E02271E1607B400A91443 /* Reservaciones.xcdatamodeld */; };
 		2F8E022B1E1607B400A91443 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2F8E022A1E1607B400A91443 /* Assets.xcassets */; };
 		2F8E022E1E1607B400A91443 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2F8E022C1E1607B400A91443 /* LaunchScreen.storyboard */; };
+		2F8E02381E16102700A91443 /* VistaPickerFechas.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2F8E02371E16102700A91443 /* VistaPickerFechas.swift */; };
+		2FF057471E175C400022B7AB /* Dulce Lay cafe Logo .jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2FF057461E175C400022B7AB /* Dulce Lay cafe Logo .jpg */; };
+		2FF0574B1E17603F0022B7AB /* cubiertoslogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2FF0574A1E17603F0022B7AB /* cubiertoslogo.png */; };
+		3B840ADE0810C7B98EA536FB /* Pods_Reservaciones.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 12F1866D5C4DF6ED1D5DEB72 /* Pods_Reservaciones.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		12F1866D5C4DF6ED1D5DEB72 /* Pods_Reservaciones.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Reservaciones.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F1B33C41E223A3700907F9E /* dulce.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dulce.jpg; sourceTree = "<group>"; };
+		2F1B33C61E223F5500907F9E /* bco.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bco.png; sourceTree = "<group>"; };
+		2F1B33C81E22454500907F9E /* dulce.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dulce.png; sourceTree = "<group>"; };
+		2F270A931E184080008446A6 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		2F6C436B1E1646A50077B441 /* VistaConfirmacion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VistaConfirmacion.swift; sourceTree = "<group>"; };
+		2F782E721E1B1AC5000F0831 /* PromocionesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PromocionesViewController.swift; sourceTree = "<group>"; };
 		2F8E021D1E1607B300A91443 /* Reservaciones.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reservaciones.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2F8E02201E1607B300A91443 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2F8E02221E1607B300A91443 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +41,11 @@
 		2F8E022A1E1607B400A91443 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2F8E022D1E1607B400A91443 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2F8E022F1E1607B400A91443 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2F8E02371E16102700A91443 /* VistaPickerFechas.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VistaPickerFechas.swift; sourceTree = "<group>"; };
+		2FF057461E175C400022B7AB /* Dulce Lay cafe Logo .jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Dulce Lay cafe Logo .jpg"; sourceTree = "<group>"; };
+		2FF0574A1E17603F0022B7AB /* cubiertoslogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cubiertoslogo.png; sourceTree = "<group>"; };
+		345705D2498CE7899FBF984E /* Pods-Reservaciones.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reservaciones.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Reservaciones/Pods-Reservaciones.debug.xcconfig"; sourceTree = "<group>"; };
+		F88A1F862339DD7B885F7CAC /* Pods-Reservaciones.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Reservaciones.release.xcconfig"; path = "Pods/Target Support Files/Pods-Reservaciones/Pods-Reservaciones.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +53,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3B840ADE0810C7B98EA536FB /* Pods_Reservaciones.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -42,6 +65,8 @@
 			children = (
 				2F8E021F1E1607B300A91443 /* Reservaciones */,
 				2F8E021E1E1607B300A91443 /* Products */,
+				A5C3BC01AE4F991AC0EAA999 /* Pods */,
+				D6B648C1B79091D4462F5544 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,15 +81,41 @@
 		2F8E021F1E1607B300A91443 /* Reservaciones */ = {
 			isa = PBXGroup;
 			children = (
+				2F1B33C41E223A3700907F9E /* dulce.jpg */,
+				2F1B33C61E223F5500907F9E /* bco.png */,
+				2F1B33C81E22454500907F9E /* dulce.png */,
+				2FF0574A1E17603F0022B7AB /* cubiertoslogo.png */,
 				2F8E02201E1607B300A91443 /* AppDelegate.swift */,
+				2FF057461E175C400022B7AB /* Dulce Lay cafe Logo .jpg */,
 				2F8E02221E1607B300A91443 /* ViewController.swift */,
 				2F8E02241E1607B300A91443 /* Main.storyboard */,
 				2F8E022A1E1607B400A91443 /* Assets.xcassets */,
 				2F8E022C1E1607B400A91443 /* LaunchScreen.storyboard */,
 				2F8E022F1E1607B400A91443 /* Info.plist */,
 				2F8E02271E1607B400A91443 /* Reservaciones.xcdatamodeld */,
+				2F8E02371E16102700A91443 /* VistaPickerFechas.swift */,
+				2F6C436B1E1646A50077B441 /* VistaConfirmacion.swift */,
+				2F270A931E184080008446A6 /* GoogleService-Info.plist */,
+				2F782E721E1B1AC5000F0831 /* PromocionesViewController.swift */,
 			);
 			path = Reservaciones;
+			sourceTree = "<group>";
+		};
+		A5C3BC01AE4F991AC0EAA999 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				345705D2498CE7899FBF984E /* Pods-Reservaciones.debug.xcconfig */,
+				F88A1F862339DD7B885F7CAC /* Pods-Reservaciones.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		D6B648C1B79091D4462F5544 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				12F1866D5C4DF6ED1D5DEB72 /* Pods_Reservaciones.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -74,9 +125,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2F8E02321E1607B400A91443 /* Build configuration list for PBXNativeTarget "Reservaciones" */;
 			buildPhases = (
+				E4612FACDC60122C0B8DC8EF /* [CP] Check Pods Manifest.lock */,
 				2F8E02191E1607B300A91443 /* Sources */,
 				2F8E021A1E1607B300A91443 /* Frameworks */,
 				2F8E021B1E1607B300A91443 /* Resources */,
+				AA5E1AD48D9B8E8F1628A471 /* [CP] Embed Pods Frameworks */,
+				887978A217C52E0186B75FCF /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -125,12 +179,66 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F8E022E1E1607B400A91443 /* LaunchScreen.storyboard in Resources */,
+				2FF0574B1E17603F0022B7AB /* cubiertoslogo.png in Resources */,
 				2F8E022B1E1607B400A91443 /* Assets.xcassets in Resources */,
+				2FF057471E175C400022B7AB /* Dulce Lay cafe Logo .jpg in Resources */,
 				2F8E02261E1607B300A91443 /* Main.storyboard in Resources */,
+				2F270A941E184080008446A6 /* GoogleService-Info.plist in Resources */,
+				2F1B33C71E223F5500907F9E /* bco.png in Resources */,
+				2F1B33C91E22454500907F9E /* dulce.png in Resources */,
+				2F1B33C51E223A3700907F9E /* dulce.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		887978A217C52E0186B75FCF /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Reservaciones/Pods-Reservaciones-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		AA5E1AD48D9B8E8F1628A471 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-Reservaciones/Pods-Reservaciones-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E4612FACDC60122C0B8DC8EF /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		2F8E02191E1607B300A91443 /* Sources */ = {
@@ -138,7 +246,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2F8E02231E1607B300A91443 /* ViewController.swift in Sources */,
+				2F6C436C1E1646A50077B441 /* VistaConfirmacion.swift in Sources */,
 				2F8E02211E1607B300A91443 /* AppDelegate.swift in Sources */,
+				2F782E731E1B1AC5000F0831 /* PromocionesViewController.swift in Sources */,
+				2F8E02381E16102700A91443 /* VistaPickerFechas.swift in Sources */,
 				2F8E02291E1607B400A91443 /* Reservaciones.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -248,6 +359,7 @@
 		};
 		2F8E02331E1607B400A91443 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 345705D2498CE7899FBF984E /* Pods-Reservaciones.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Reservaciones/Info.plist;
@@ -259,6 +371,7 @@
 		};
 		2F8E02341E1607B400A91443 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = F88A1F862339DD7B885F7CAC /* Pods-Reservaciones.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Reservaciones/Info.plist;
@@ -287,6 +400,7 @@
 				2F8E02341E1607B400A91443 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
